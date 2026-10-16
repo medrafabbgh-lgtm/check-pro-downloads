@@ -1,0 +1,14 @@
+{
+  "version": "0.3.19",
+  "notes": "Connexion PC et téléphone automatique, reprise de connexion et mise à jour sécurisée.",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGFUeDUvNjFyYlhlSk1iTk9JcHBHcFdpM0dVU0hCZGhoRnRobFRGTmZoNXd0L2owa1lGVzQrVmw1SlQxMGFlejZPTnczS1dPaUZuWmlUZnFPTjdYSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY4MjUyCWZpbGU6Q2hlY2stUHJvLTAuMy4xOS14NjQtc2V0dXAuZXhlCnRZRGZvUS9EaTh1c2pqbkh1Z3RUOFJwU0JDcDAwTVA4QjgyLy9qWUEzL29sNFBFUkZIV3BZZS9UOTVNN0huTEhzYmFiWGlaZzZDcVhjdzJ3cEhEWkF3PT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.19/Check-Pro-0.3.19-x64-setup.exe"
+    }
+  },
+  "sha256": "cc040dd74b4102efd19810d6bf7d6adba09645a528728cf9fee3c2f27aaffa8f",
+  "size_bytes": 11537509,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFlPUnVUU0w2RkpXcThMU1NwdDRFRTBXOVErd0VzZ1pDRlQrSlRKdWd2cE02NlRPcTVlaUtJd3MyZGUramtpdHdUckVNcG5Nb3BxM1o5UW9JTm93TFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY4MjUyCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAo4TTl1VU0wNnJyOXhacU14YktpY2Y5alc1VjhYczFKMG1KTTZkZFJFaUFORWNQcWVnTTVPV2lqQXNRcHNvVDVnSlpHVVFYM3NwYTJNaDJBblRxcE9DQT09Cg==",
+  "required": false
+}
