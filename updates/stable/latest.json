@@ -1,14 +1,14 @@
 {
-  "version": "0.3.22",
-  "notes": "Techniciens : brouillons protégés, reprise sûre des sauvegardes, noms uniques et profit cohérent sur PC et téléphone. Connexion, SMS et appels conservés.",
+  "version": "0.3.23",
+  "notes": "Rapports techniciens sur téléphone : connexion compatible avec les anciens PC, sans changement des SMS, appels ou données.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFM4cVR4Mkg2UGdCU3pOSjB2N3VyVjNaVEsyaEd6Mnp5MkhGMlZ4dGdRL0hobVpHSVFVdUVQZm5IUlFZN0ZzTDhmN3FqS1c3TVdMR0F6bFRrbHRteGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzIyOTU1CWZpbGU6Q2hlY2stUHJvLTAuMy4yMi14NjQtc2V0dXAuZXhlCnBVc1V6UkZsdlNZQm9MNmg2UXNlR1lVaC80aHl5NEoyVWZ1aGhlNVFkNG5ydW1CckVUcFM5bldFQ2lmZUJkREc1aE16ZVBzV3J2Qk8vZFlwYVBjWUJRPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.22/Check-Pro-0.3.22-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGI2TENjV1lOOHFaZlhPVEdreG05eG83ZzJnaGdnbjJmaTNMTkpXQTVxVG1XWUZsaGRaNktMbmFlemNJL2t2VUUrQ2dNSUcxNFkzVEl1eWV1bFhSaWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzMxNTMxCWZpbGU6Q2hlY2stUHJvLTAuMy4yMy14NjQtc2V0dXAuZXhlClhBQytsR3BsZ1B4NWxFU2p0VEhRcWpkRVBUeWNQdEF6eXhCT2xCYlZvUzdiWEY3ZUc3QUtwdE5keExPMEZOTzVmQVhBNGx6bTA5Yms4OUxMYzM3SkNRPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.23/Check-Pro-0.3.23-x64-setup.exe"
     }
   },
-  "sha256": "7e009b55fadefc984db22cc9b87ba78a88daada8345796cff547f2ead5c96c2d",
-  "size_bytes": 11571853,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFZLb2ZmcDhxVmoxUy9qbnRwZndJb3o4Rnd6aS9xVm9wL0NOWSswcE5IdmtQb25nYUIxa01BRWtGazNVbDFrTnhQN2hwam9kekpYZExYMEtsT1gzbWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzIyOTU1CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAowK0RhQmxYVkFmczhtU0lIYkxCTjc1Q2NYTWkxWWNzTDd6b1dNd0UwRDNxSVRmQ1BJcEw1ZnlnWlNYWXBkT29CcjhzL1dlNE5QZW9QbXQ3cXRDdkNDQT09Cg==",
+  "sha256": "49e28fb060e0e1bb9b5fdd16672fb0a4ae9f692478c539a22626001fb14d0dbb",
+  "size_bytes": 11584375,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGYwczNCTWVrNjdnZDlhMFdkOVg1RHhMOEQ5aDJXTUVIb3RWeTQ1c2x0Z2IzMkhla2JuRWJMcFBkby9vZUZudDU5bklDOUt3S09UUjdSdThLRXAxMmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzMxNTMxCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAo4QVBIcFF3c0J1NUs2MnJ1Sm9lRDVqQVRjRjV4S00yR2puVk1ZRWJ4ZUlvbFZHdmFacU05ckMveDVGOFZxVFlQT1JDL3QyeExjSjBQMFdoR1NyUkVBdz09Cg==",
   "required": false
 }
