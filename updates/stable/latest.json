@@ -1,14 +1,15 @@
 {
-  "version": "0.3.27",
-  "notes": "Caisse redessinée (comptant, partiel, dette), nouveau ticket « Historique des ventes » animé, tableau de bord retiré du menu.",
+  "version": "0.3.30",
+  "notes": "Images du stock et des réparations : recherche et relance locales. Fenêtre d’appel corrigée avec annulation avant prise en charge par le téléphone.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFozOE52dG1UME1yL3dRYnFEbWZWbkdKSklKMXRVdE51Z0UvQmdPckxRcGY3UmxnZWhXZHRzL0s4OWViNWRrT29UbkRyZk1JZXlDaWl3anoxRGZtS2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjAwNjI5CWZpbGU6Q2hlY2stUHJvLTAuMy4yNy14NjQtc2V0dXAuZXhlCm1JblhkTkdENnlLVkcweWlscXJpWXY2RVZPQ2lzeExhRDg0Qkk0b3Y2UFlWUjlSRzBxa2NoZlh1dzBqYjkrL01VaXd6emx2SEpsOUZVaE8xM2dGSUNBPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.27/Check-Pro-0.3.27-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFIwekQyTjd2NU1hTjBKRk5vM2lNMjNUQVVhRHMxSW5xOG5iZXdudzN2dEorQzVFWFpmUkVLdHlQa0ZBUUNHNnIwRkc5Y0pwaDVpellMRkxHUGx1M3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwMDM4CWZpbGU6Q2hlY2stUHJvLTAuMy4zMC14NjQtc2V0dXAuZXhlCmhCRC9adGxva3MzMm5yUmo1SW5PYTJXODR0Sm9NdjF1WnA0cTRSeU9kRFhTdGlhemVDbDlBMWRwOUwwcTFUWnZDVU1HUVZSK3NJeW4yWmdIRUlpRkJBPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.30/Check-Pro-0.3.30-x64-setup.exe"
     }
   },
-  "sha256": "04d14331d44712907b06410584842e34cf4150d6ab1d23e78809c6e5beb3e96f",
-  "size_bytes": 11754383,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFJ5U0kvTjhaQjRQYlRSOHFYZ0hBTG1lSFBVaG5OUCt6QWlRTEs4VElraTZkUzhqa2NIOVJlZ2IxVWlRMGsxVHA2dWM4dWZObTNDaHJJUWdlMEhPN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjAwNjI5CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApCVlVYRVBucXZxcDE1TGtkUEdUWVM5Z3ZSdk5KU3hNR0pacVdtK0tENzdKcEdsaXlkMlFIRVd4MldhNit4Zm9qdWIzemZZUWdiTnVSSEZGRU1pUG1DUT09Cg==",
-  "required": false
+  "sha256": "0b59d478e9446ce385bf6fb4e5a3d2953d84b0f403d71ffc14d53328a5de8a19",
+  "size_bytes": 11778683,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGVrZkVYa0Rqbndsa3cwYWRleGNrY1c0dytGeHNsb1M4ckdtSXN5RW9rT0czTWdGVDhhNFloQTUvKzJnT1M2TFI1Qm01ZGxxZVR1TVVvVjBmTUtvTGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwMDM5CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApiSmw4QzVpTlpzSGQ3UzY0ZFVoVnRWdklYSDF6V2dVNmI0aXovOGw2TnhwV3hVZmEyc28yWGNxYkF3VFRhK0xZUmxHb2lLN0tPQXExVFJOTEs3TUpEQT09Cg==",
+  "required": true,
+  "deadline": "2026-10-22T15:54:38.878Z"
 }
