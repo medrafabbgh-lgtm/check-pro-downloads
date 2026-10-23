@@ -1,15 +1,15 @@
 {
-  "version": "0.3.31",
-  "notes": "Connexion et appels proteges, imprimantes par usage, documents et certificats IMEI, pieces externes et illustrations locales. Reglages conserves pendant la navigation et erreurs recuperables.",
+  "version": "0.3.32",
+  "notes": "Les noms des telephones associes et le telephone SMS/appels apparaissent dans le tableau de gestion des installations. Connexions existantes conservees.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGJNa3BtZUxvVlBad2VBNk5ZL2g2dEU4cFZRR0k4dFZ3R1BscVJ1ZWJyZmtFZmMxQ2JRc0VIb1o3OVBsMmxOR1hUeGtaSGJSNjIwK1c4MHFPR3dHL3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgzNzU5CWZpbGU6Q2hlY2stUHJvLTAuMy4zMS14NjQtc2V0dXAuZXhlCkFVUVE5Z0xuUlF2ZEFmajBBNEljbUYvWEYrcjdlbU15a0Vxd3BMbkZUZURMTVJXUEJnTXFhUk1vazdkeU5nSnJMd3d0Zklpak5NcFBMbFpkMGVQb0RnPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.31/Check-Pro-0.3.31-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFNTTmdQdTZHTlZ4ZDhoVE94dkdSREFISlVDMG11Qml5enpNZ3p1aU8wYnBhcHc1V2h4STE5bzFlQ21reGRvZlNqY0NVQ1JFMGkwaVNORmdpMmJibUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg2OTg2CWZpbGU6Q2hlY2stUHJvLTAuMy4zMi14NjQtc2V0dXAuZXhlClo4cG1xa2NGak83SEZFL3VXY0d3L0c3UGxjTWwxS2dzRGZTcUZOUDFWNzRQR2s4Y0wvWnQxd2hqb2w3VDFEc3k0Z3dkRThVV2VaVWNtbzQ5YlpYbkRnPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.32/Check-Pro-0.3.32-x64-setup.exe"
     }
   },
-  "sha256": "8076421b7ca922e9d5753f296fdbbad4a0871cc286dd42ac9585c9d6fed0645e",
-  "size_bytes": 14418662,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFQvYlhHSVA0NHlnYmdzUUJ5dXVkSDJOUWg5QXljYkptaDVkSXpIUGtlM1M3ZElSeUV4bnIxZk5xS3RrUzhCMzZVcDd6blY1OXN3azRIQTNBRjVrdHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgzNzYwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApHOHZQSUJoNS9DR09xdEVENE5nK2doNlg4d2RQbTJUNElVN1lCcmR5c2xJSXlFQjg2NGl0Slc3M2ZuUHJkdXdhamlseGRzRkVjcVVCTEhRN0JqbXFCUT09Cg==",
+  "sha256": "fc0ab57fc532abc3b77bd4af752e7f0517760b772c375c96988d9e7484d6b881",
+  "size_bytes": 14420414,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGNtWFlUdm0yMk1vRGIzcWpoZCszcEZhSmRPQVBKSzRXV0dHKzRHN3REb3h1ZWJlSnBXUUhvS1JVVEJYa2RIOENTQ3d2aThvOTVRZEpiVXVnMXc4NFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzg2OTg3CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAo5R1ZpZ0xCWHBsOVlSbURFRGdXc1k1WDFLYlBjU2g2MGQwQmthRDhTampLbzZXV3piZk1rYzVrQ20wamFQZ1MvbTdiQTlrVVNydE1OVUk0aVpvVGVEQT09Cg==",
   "required": true,
-  "deadline": "2026-10-23T19:33:51.576Z"
+  "deadline": "2026-10-23T20:38:06.135Z"
 }
