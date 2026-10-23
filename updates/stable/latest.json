@@ -1,15 +1,15 @@
 {
-  "version": "0.3.30",
-  "notes": "Images du stock et des réparations : recherche et relance locales. Fenêtre d’appel corrigée avec annulation avant prise en charge par le téléphone.",
+  "version": "0.3.31",
+  "notes": "Connexion et appels proteges, imprimantes par usage, documents et certificats IMEI, pieces externes et illustrations locales. Reglages conserves pendant la navigation et erreurs recuperables.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFIwekQyTjd2NU1hTjBKRk5vM2lNMjNUQVVhRHMxSW5xOG5iZXdudzN2dEorQzVFWFpmUkVLdHlQa0ZBUUNHNnIwRkc5Y0pwaDVpellMRkxHUGx1M3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwMDM4CWZpbGU6Q2hlY2stUHJvLTAuMy4zMC14NjQtc2V0dXAuZXhlCmhCRC9adGxva3MzMm5yUmo1SW5PYTJXODR0Sm9NdjF1WnA0cTRSeU9kRFhTdGlhemVDbDlBMWRwOUwwcTFUWnZDVU1HUVZSK3NJeW4yWmdIRUlpRkJBPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.30/Check-Pro-0.3.30-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGJNa3BtZUxvVlBad2VBNk5ZL2g2dEU4cFZRR0k4dFZ3R1BscVJ1ZWJyZmtFZmMxQ2JRc0VIb1o3OVBsMmxOR1hUeGtaSGJSNjIwK1c4MHFPR3dHL3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgzNzU5CWZpbGU6Q2hlY2stUHJvLTAuMy4zMS14NjQtc2V0dXAuZXhlCkFVUVE5Z0xuUlF2ZEFmajBBNEljbUYvWEYrcjdlbU15a0Vxd3BMbkZUZURMTVJXUEJnTXFhUk1vazdkeU5nSnJMd3d0Zklpak5NcFBMbFpkMGVQb0RnPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.31/Check-Pro-0.3.31-x64-setup.exe"
     }
   },
-  "sha256": "0b59d478e9446ce385bf6fb4e5a3d2953d84b0f403d71ffc14d53328a5de8a19",
-  "size_bytes": 11778683,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGVrZkVYa0Rqbndsa3cwYWRleGNrY1c0dytGeHNsb1M4ckdtSXN5RW9rT0czTWdGVDhhNFloQTUvKzJnT1M2TFI1Qm01ZGxxZVR1TVVvVjBmTUtvTGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjgwMDM5CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApiSmw4QzVpTlpzSGQ3UzY0ZFVoVnRWdklYSDF6V2dVNmI0aXovOGw2TnhwV3hVZmEyc28yWGNxYkF3VFRhK0xZUmxHb2lLN0tPQXExVFJOTEs3TUpEQT09Cg==",
+  "sha256": "8076421b7ca922e9d5753f296fdbbad4a0871cc286dd42ac9585c9d6fed0645e",
+  "size_bytes": 14418662,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFQvYlhHSVA0NHlnYmdzUUJ5dXVkSDJOUWg5QXljYkptaDVkSXpIUGtlM1M3ZElSeUV4bnIxZk5xS3RrUzhCMzZVcDd6blY1OXN3azRIQTNBRjVrdHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgzNzYwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApHOHZQSUJoNS9DR09xdEVENE5nK2doNlg4d2RQbTJUNElVN1lCcmR5c2xJSXlFQjg2NGl0Slc3M2ZuUHJkdXdhamlseGRzRkVjcVVCTEhRN0JqbXFCUT09Cg==",
   "required": true,
-  "deadline": "2026-10-22T15:54:38.878Z"
+  "deadline": "2026-10-23T19:33:51.576Z"
 }
