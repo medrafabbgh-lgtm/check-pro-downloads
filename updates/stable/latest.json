@@ -1,15 +1,15 @@
 {
-  "version": "0.3.35",
-  "notes": "Rapports corrigés : coûts historiques, pertes, taxes, remises et prestations. Pièces achetées ailleurs et récupération des appels interrompus. Données et connexions conservées.",
+  "version": "0.3.36",
+  "notes": "Éditeur de documents amélioré, remise des réparations plus claire, graphiques détaillés des rapports. Brouillons, données et connexions conservés.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGRDcVFUdFZlVmw2WkZ6TjBZaDhsTmRUOHplV1JkR2dRTlY3eWwzWGlSeHJLTk5OMjBiVjVncFo1L1JHOWV4VjR3NVVJWi9DTlY2S00xaXU4dmhNMndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYwNjQ0CWZpbGU6Q2hlY2stUHJvLTAuMy4zNS14NjQtc2V0dXAuZXhlCjJxUGR5djNtOTB1ZVVzRUlaOGpFVUVkUFBzMVd4MmwzNGxSKy9GTmszRitJdHl1YlBUdWN4bEgzMm1NWUhibERKM0hCcHNSMTI2d3BaN0VTSCtBakF3PT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.35/Check-Pro-0.3.35-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGZmRUk5dE41SDBsdDJqOVJ6TjdPWXpkd2FkS0ZDMVY5bExDYkRoZmY3M0svbXA3bCs2MCtrbk5aVGU0alV1V2x4dGpUV2hETTBjcGkwY1hpemhlWGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1MTEyCWZpbGU6Q2hlY2stUHJvLTAuMy4zNi14NjQtc2V0dXAuZXhlCnk1TGNiV3hSYzhsSXp0SVVyVFRmandzK3pnNDFMcXdQcVM1RlFDTjFxWS93NTBqQy9YaXc4WE4yeStFRENsd29BRUNPRGRocVFaNG00a1JoWVBWVURBPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.36/Check-Pro-0.3.36-x64-setup.exe"
     }
   },
-  "sha256": "bca8060d19bdf710dbc7ba699e9090222babcfaf908844a55f1e36cfa770c5c8",
-  "size_bytes": 16046492,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGQrWGp5ZmtCU1AvS0VTZE9MM09lbGxJKzE4QmdYeXpldS9NeVhYRFpnbHlDVi9QNTZ6aDR0NUlSc3h4b2N5WjBPeUEwamQvWmx3MFhPdUxYYytZM3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTYwNjQ0CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApoZHVNOEpiUHY1ajRWSDhqY09HN24vUFE1NHA3T1ZKSzI0RlZmOGF3REZkUFBpMEtSQUpsVkhSY2FYK24wc1JnT0NRRTBTYjlvcDFhQkh4Q1JDRkNCUT09Cg==",
+  "sha256": "bfdf064022f15899fdcdeb5ed24c33557a132b2563afbd7d896269bd1c8ffeec",
+  "size_bytes": 16063929,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFMvRHp4NVpGbFEyVHFXRkFiWlRKWjU3UkY0eFFhRnNnZGtkbGR1eDZVeTM1TUhZalBiSThhbzN1NnZqVXBmOVVTUFJoaW4yS3AxVXJncTltT1cwT1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1MTEzCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApINFJJb2NPOFN0cU9zV1BiWXpFS09kYlp4THN3Ry9MVkZwV3RncjcwbEZ4bG1yeVR2cFJKYVgxdkFTUHJsZGpuODBLR0N2UmdseUM5NWxFREtROEJBQT09Cg==",
   "required": true,
-  "deadline": "2026-10-26T10:39:40.274Z"
+  "deadline": "2026-10-26T14:40:55.233Z"
 }
