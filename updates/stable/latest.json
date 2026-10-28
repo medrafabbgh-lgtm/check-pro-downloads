@@ -1,15 +1,15 @@
 {
-  "version": "0.3.36",
-  "notes": "Éditeur de documents amélioré, remise des réparations plus claire, graphiques détaillés des rapports. Brouillons, données et connexions conservés.",
+  "version": "0.3.37",
+  "notes": "Contrôle iPhone sur un seul écran, couleur automatique, photos haute définition, batterie en direct et références des pièces. Navigation et photos du stock améliorées. Données et connexions conservées.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGZmRUk5dE41SDBsdDJqOVJ6TjdPWXpkd2FkS0ZDMVY5bExDYkRoZmY3M0svbXA3bCs2MCtrbk5aVGU0alV1V2x4dGpUV2hETTBjcGkwY1hpemhlWGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1MTEyCWZpbGU6Q2hlY2stUHJvLTAuMy4zNi14NjQtc2V0dXAuZXhlCnk1TGNiV3hSYzhsSXp0SVVyVFRmandzK3pnNDFMcXdQcVM1RlFDTjFxWS93NTBqQy9YaXc4WE4yeStFRENsd29BRUNPRGRocVFaNG00a1JoWVBWVURBPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.36/Check-Pro-0.3.36-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFRYYm5qb3FKSHFsYjc3cHE1U1BPeWVuZ2pub1lDWUl5a1JSMXVlYUY3Q2w3T2lKaTRCQTZRRnd5RjEwUnBXRFdHbTg4QXRtL0VLZ0NLRkFzc3NTZGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA2NTgxCWZpbGU6Q2hlY2stUHJvLTAuMy4zNy14NjQtc2V0dXAuZXhlCnFGWUR5ZlpkOFBpUm5JcHU2QTQ5d3pKZkJTMldmNlJzamd4YUo3dDBOeXliaGtvTWlwT3hmcENoTTVRKzlnaTMyVGpQYzhYRXdZM0diLzJaUmtxUUF3PT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.37/Check-Pro-0.3.37-x64-setup.exe"
     }
   },
-  "sha256": "bfdf064022f15899fdcdeb5ed24c33557a132b2563afbd7d896269bd1c8ffeec",
-  "size_bytes": 16063929,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFMvRHp4NVpGbFEyVHFXRkFiWlRKWjU3UkY0eFFhRnNnZGtkbGR1eDZVeTM1TUhZalBiSThhbzN1NnZqVXBmOVVTUFJoaW4yS3AxVXJncTltT1cwT1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI1MTEzCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApINFJJb2NPOFN0cU9zV1BiWXpFS09kYlp4THN3Ry9MVkZwV3RncjcwbEZ4bG1yeVR2cFJKYVgxdkFTUHJsZGpuODBLR0N2UmdseUM5NWxFREtROEJBQT09Cg==",
+  "sha256": "fe74fbea4abdd0a8585beb05c031f564de935031184a4e565d4553954eb76ea1",
+  "size_bytes": 28513831,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFJCZVd1Tzd5YmJSMVJuQU1TTXVXMnZnNTBBNWpMaUNZYWdtSFpNSVJiOEtpNk1qV3VjUlhHTjh6TGtKTkRVaENMaUNKeW8xSTI1NWdmUXU0TDROdUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA2NTgyCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAp0Q3Z6L0RxVmlwU3BCVDk3VUV6WnhSMThMRzlUUE5keml3cjBDS0czWURFU01Vd1AvZVBIRnFDQTkvTGhVck83R3pSN1V2eEl5MTlsTWFnLzRXczZCUT09Cg==",
   "required": true,
-  "deadline": "2026-10-26T14:40:55.233Z"
+  "deadline": "2026-10-28T18:05:32.875Z"
 }
