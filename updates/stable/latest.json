@@ -1,15 +1,15 @@
 {
-  "version": "0.3.41",
-  "notes": "Correctif : les PC boutique (hôte) et les PC reliés s’ouvrent à nouveau normalement. Comprend aussi : réglages Impression sur une seule page, étiquette code-barres réparation à scanner, « Ce qui reste » dans les Rapports, Carnet clients plus rapide. Données et connexions conservées.",
+  "version": "0.3.42",
+  "notes": "Imprimantes : Check Pro reconnaît chaque imprimante, dit clairement ce qui ne va pas, et chaque document a son imprimante. Textes et logo placés librement sur les tickets. Relevé de dette en arabe aussi en A4. Textes plus lisibles. SMS et appels plus fiables. Données et connexions conservées.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFRTeXkzeFdpQ1JSRlRXUVNleHlkY3BVekxuemF2dll6elgvZWJKTERSMFhIRlJoa0VRdVRkNER2SVVDaFBjNHp1Nks4S2drSGdaSUJ4OHBIYVhwMGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQzMTQ3CWZpbGU6Q2hlY2stUHJvLTAuMy40MS14NjQtc2V0dXAuZXhlClVrZm1ZRCtOVXdBZnduK1luMFA2MUhjaXc2bE1MZXk4WHVMRkZIZlFvQ3A2SXI3eHVrYjFkQTR0d1ZkMmlMR3dZRDlaM0tQY21odFRFVUNIRmY0S0RRPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.41/Check-Pro-0.3.41-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFQ4cjF4ZUJuN3drV0czLzd1aDIyNE1PMXJzQ1Q0eVJGeEZ0eUcyR2xjM1hRZ2ZjdkhRWndwcjRVWkJTWVRDbi9CWk1aU1lCaW5ZQjg4QkMrdHI4eUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI5MzYyCWZpbGU6Q2hlY2stUHJvLTAuMy40Mi14NjQtc2V0dXAuZXhlCjZhU005UU5EUGFWblpBeVY5d2dhMzAyZmJvc3dwYkhINzJnWVFpa1lOcXdqU3dTWTdyQ1VFdXN3cW1xNThGQzEwK1pWS2hzOEhUS3F0bGZ0M1ZhdUNBPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.42/Check-Pro-0.3.42-x64-setup.exe"
     }
   },
-  "sha256": "1d9f6a058d9401ed4ae538a83eaf684bf968fc4ad807eb3b9ae643ba576e2fd0",
-  "size_bytes": 28531877,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFFudjZWRWF4M3dwWnA3bnBycTBqbVV2TlE0R1JQNTQrUEJPaERBaFNSS1pCYTBzUExsMXg0K1FCQmhQTUdMdlZLWDAwRFBXWThvR3FZTkUwNmk4TGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQzMTQ4CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAowYWVsWFd1Y2ZsUGkvRFE2bGJmWndZZTRVZjVHamZyeWEyNW1BdzdRQ0pGZnAzZ0NiUHBqa1lndzgrMlhFdFJDMHZOQXQ2UmFsNWwwNjB3eUMzb05Bdz09Cg==",
+  "sha256": "1d94dc9decdede3cb18b7f050e05513ebde51975efdad4f7fdc41a1d344a5b85",
+  "size_bytes": 28565321,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFNkK081dTRCMG1CUmxpWGxEcjFFcExyR0JsbDZYMDNWNms2Vm4zVkViWmZ3WGgrZFB1MHdmbFY5Z3FJa1pRa1ZUVFdBdEFCTTlKRTArQkZFc1J6bmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI5MzYyCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAphVmtiOFMxK245OVk1REpaRHN2NTRVdCtNMC9xbTYvWlZTbU5XakIxcnYyZTdUVHVOeHNNSWVPV2lRbmpabTF6MHRZbnZVV0x2TnNsamJiUEQrOTNDUT09Cg==",
   "required": true,
-  "deadline": "2026-11-01T15:33:14.881Z"
+  "deadline": "2026-11-02T15:26:04.710Z"
 }
