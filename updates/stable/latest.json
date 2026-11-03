@@ -1,14 +1,14 @@
 {
-  "version": "0.3.44",
-  "notes": "Nouvelles de la boutique : une cloche en haut de l’écran montre ce qui est à faire (réparation prête, message client, SMS non parti, stock bas), avec une notification Windows pour l’urgent. Réparations : nouvelles cartes avec la vraie photo du téléphone.",
+  "version": "0.3.45",
+  "notes": "Impression automatique : l’application choisit seule la bonne imprimante et le bon papier (ticket 80 ou 58 mm, A4, étiquette), sans fenêtre Windows. Sans imprimante A4, le document est enregistré en PDF. Factures, devis et bons de livraison A4 plus complets : vendeur, état du paiement, moyen de paiement, date limite, signatures. Étiquettes : prix et code-barres entiers à toutes les tailles. Rapport technicien avec montants et totaux. Les postes reliés impriment aussi les tickets personnalisés. Tickets plus clairs : vendeur, moyen de paiement, date limite, note.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFJjOVExemlWWnVUdnFyL3ZIOVpsQVdZbXNTeUZqMzhiZ09LU3pKeGZmdGJpWXJkRGVrOXR1UG94dUZ3VFF1ZFpQRjcvTTdWWG9kSGJGVmdNQTViWXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE0MzkyCWZpbGU6Q2hlY2stUHJvLTAuMy40NC14NjQtc2V0dXAuZXhlCkNSa2pBZnc2emxrUVZWSGZMRXR3ZGU4NDYvQldGYXd1RlVXcUlaS01rL3haMUpvWWIvUzROdGthZ3JVTThpbDRXR3dVZ2tuNGQyUk1naHU0QkJOTENRPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.44/Check-Pro-0.3.44-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFhtY0o0anFhY28xTlJWclA3T3V2QnNMZlJvMWpEOUQ3Rzh6c3dQclgrYUpRamExbnh3eWlNcHBqUVMvY0IwbW9Zb0d6bE1HMkFBeXBsVkZ5ckcvTWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM5NDc3CWZpbGU6Q2hlY2stUHJvLTAuMy40NS14NjQtc2V0dXAuZXhlClZHaTlFNXYrL1FteVhFRVFNRW84MEhob0xRdG5NUVJFaFdJTWJiekgrRHRiWHhFdSs3aXZDWTVOam8xbmNuZUNSVEJwNDlBSjlidTUrTEUxVytLQkRBPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.45/Check-Pro-0.3.45-x64-setup.exe"
     }
   },
-  "sha256": "493ee528373a20fe02446dc8b60cfc7cf2724035b29d5c49ff2cf81ec3abfb2d",
-  "size_bytes": 28893782,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFhMSFo3blZHeU9OUkErTXNwelc0VkRhK2dZVmJaRGsxQStRa25DOThaaVBoSTZ0dTM2UHdKblpZSlF6YWcreFBDaytDYmd3ZkM4Yml5bEZQVlcxVlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE0MzkzCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAorUzd0dHBpdFFEZlRHaStHNlNLVHVhRXUwOUIvTGlOZXZCZTY0M3loQXZBL2VXcUtXMGlsVm0xZE1zbmFwNFA3UC9VNnFIcTQ4UTV5QjkzWFFWOUJEUT09Cg==",
+  "sha256": "d929d3b563d25caf2d4833bf7f014b0871060061f1408236d83dc41d003367d0",
+  "size_bytes": 28897192,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFZyWmlKNlZxTHR6ZHJHUUhPNTFEMUZSUVNKVnkwV0U5bnpJM2ZmeFhubmxYOWRGS2p3RDU1RGNrUHQzbkJBNm94R0daczdxVVZvMERoVkp2QzFrZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM5NDc4CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAptTllwK3dXMlpOZ0V2VmpUY3JKL2NlVTZxQitrektzajJYMEh4dG1mclhlWUw4QUFCNExaY2VGNU4rcUEvRkx0WHVSd2RGeEJsdHN5OGhWQVVlZm9Bdz09Cg==",
   "required": false
 }
