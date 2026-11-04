@@ -1,14 +1,14 @@
 {
-  "version": "0.3.45",
-  "notes": "Impression automatique : l’application choisit seule la bonne imprimante et le bon papier (ticket 80 ou 58 mm, A4, étiquette), sans fenêtre Windows. Sans imprimante A4, le document est enregistré en PDF. Factures, devis et bons de livraison A4 plus complets : vendeur, état du paiement, moyen de paiement, date limite, signatures. Étiquettes : prix et code-barres entiers à toutes les tailles. Rapport technicien avec montants et totaux. Les postes reliés impriment aussi les tickets personnalisés. Tickets plus clairs : vendeur, moyen de paiement, date limite, note.",
+  "version": "0.3.47",
+  "notes": "Impression : chaque ticket et chaque étiquette se placent sur la page que donne votre imprimante, à partir de son premier point : plus de texte coupé à droite ni décalé, et rien à régler. Si Check Pro ne sait pas quelle imprimante utiliser, une fenêtre la demande une seule fois et s’en souvient pour ce document ; après chaque impression, « Changer » permet d’en choisir une autre. Contient aussi tout le 0.3.45 : impression automatique, A4 plus complets, étiquettes, rapport technicien.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFhtY0o0anFhY28xTlJWclA3T3V2QnNMZlJvMWpEOUQ3Rzh6c3dQclgrYUpRamExbnh3eWlNcHBqUVMvY0IwbW9Zb0d6bE1HMkFBeXBsVkZ5ckcvTWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM5NDc3CWZpbGU6Q2hlY2stUHJvLTAuMy40NS14NjQtc2V0dXAuZXhlClZHaTlFNXYrL1FteVhFRVFNRW84MEhob0xRdG5NUVJFaFdJTWJiekgrRHRiWHhFdSs3aXZDWTVOam8xbmNuZUNSVEJwNDlBSjlidTUrTEUxVytLQkRBPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.45/Check-Pro-0.3.45-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFRvbFBXOEppdjd1VjdSY1dlUWtOYjhsOERKSzN0M0krYkw5cXFlNWsyVGg1cVNsdWJJTTh5UXhweEdscnhmR1R4S1ZKWTdSV3FSOXlhanpnbDY5WkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODA3NTkzCWZpbGU6Q2hlY2stUHJvLTAuMy40Ny14NjQtc2V0dXAuZXhlClB6dm5WTXBDb3RzcnA4NVB0ZjNrc0ZXQ00zWHRQdDJvaHNzQ3BtS0V5a3AxazlWWmQ3cSt3aUVwZlVFMCtlNGhZWHg5cU5OZ2VxOG1OM2NWZmVCK0F3PT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.47/Check-Pro-0.3.47-x64-setup.exe"
     }
   },
-  "sha256": "d929d3b563d25caf2d4833bf7f014b0871060061f1408236d83dc41d003367d0",
-  "size_bytes": 28897192,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFZyWmlKNlZxTHR6ZHJHUUhPNTFEMUZSUVNKVnkwV0U5bnpJM2ZmeFhubmxYOWRGS2p3RDU1RGNrUHQzbkJBNm94R0daczdxVVZvMERoVkp2QzFrZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM5NDc4CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAptTllwK3dXMlpOZ0V2VmpUY3JKL2NlVTZxQitrektzajJYMEh4dG1mclhlWUw4QUFCNExaY2VGNU4rcUEvRkx0WHVSd2RGeEJsdHN5OGhWQVVlZm9Bdz09Cg==",
+  "sha256": "c7c0dad5e07c10e8e71bd864a28d67553e618990cb696f28186234cc4a20be0f",
+  "size_bytes": 28919365,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFJMSktwWHZqaVkwaE55c2J4Z2YxL2hiOEtrSzV3Uk5sTVNobGtkNzRNOWd2MVMzWXdHOUx3eWN5YUU4azEyamtrMFd0dGhXMjAvV1JEdVYxVUU0elFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODA3NTkzCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApadmZ5VWROY09QOE14VGsvbUJxQ0NseCtjRnJ6YzQwSDd3cnVobVl5aWdGMVc4M2p0R1FxK3dGOElKbWRoK1ppMitKVzNjc0E3S2RWbC9HWUpub3NBUT09Cg==",
   "required": false
 }
