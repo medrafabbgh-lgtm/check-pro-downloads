@@ -1,14 +1,14 @@
 {
-  "version": "0.3.49",
-  "notes": "Réparations plus rapides. Nouvelle réparation sur un seul écran : client retrouvé par son numéro, modèles fréquents en un clic, reste à payer toujours visible. Fin de réparation dans une seule fenêtre : prix, technicien, un bouton qui prévient le client. Rendu du téléphone dans une seule fenêtre qui se ferme toute seule. Scanner l’étiquette ouvre directement la bonne fenêtre. Réparations payées en espèces uniquement.",
+  "version": "0.3.50",
+  "notes": "Étiquettes code-barres plus claires. Nouveau style par défaut : magasin et prix en haut, nom du produit en grand, sans numéro ni lignes. Paramètres > Impression : 4 modèles prêts en un clic (Classique, Gros prix, Prix en bas, Sans prix). Chaque partie se règle : taille, afficher ou masquer (téléphone du magasin en option), place exacte au millimètre. Alerte si une partie dépasse, se chevauche ou couvre le code-barres.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFdIak1tcm1CVUN3YjRlZEc5MjUrZ29qU0wvQlRKYUtlbXdZYVR2KzV2cDVGdk5MTDU3NGZLMUg4RmlxL1VvOTU5MVFIVWlGaHU4M09neXlNaHY4b2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyNDQwCWZpbGU6Q2hlY2stUHJvLTAuMy40OS14NjQtc2V0dXAuZXhlClBKY092djE1Mkw5cUxJOCtuZytlQmthVEpkVUYzK0hQVXljcHMyN2dsUDVRTHVkR3dROUVSL3RFclFXcHdTSWNtTzlsU2V2UEJxRkdNVStCVkx1MURRPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.49/Check-Pro-0.3.49-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGFpVnZBaXVTQ1N5c0FmL0hQMThnZW1iRUNqZ3BkaGY5OXhYZFV4dkliUW1sUzhGTHN2WTF4aVJQaHNNOU53eXBobk00MVJjMHJrSTh3clMyNTE5V1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NjAwCWZpbGU6Q2hlY2stUHJvLTAuMy41MC14NjQtc2V0dXAuZXhlCkFvQTV1T1hCMFVpYmZtVWltVlg1ZUd2SjVib3lBL05QV2w3cmEyMlkzSnFIdDRLdHlKRGlWRzBFanlOTDdZNHNOei9MYzNtbjY4ektuM3NJM3g0R0FBPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.50/Check-Pro-0.3.50-x64-setup.exe"
     }
   },
-  "sha256": "58b4f25ad5c68c5acc5aea1578663480bb0046caa80493e728ae82cf19056425",
-  "size_bytes": 28931820,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFpKUi9NUURtakUwVlpWQmNuSjBSUWdyc09YTFBRbG52cjNJSEs0Y0h6TnRiTnlMOFZ2NWovc2Z1UlFlbm9NSkw2WWE0WFJvMHd2T0w3YXR2N2tRTXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyNDQwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAo0c1NmUG90UFpxcEdOdjFJOHk2L1BqTXJEZlg1cFpsb3BKdTBOMVVIbU9YWEt0cFQ0cnp4dUMvdTloSFdOUVB0QkxQR1ZNeStFOE83UmUvQzhqWFdBQT09Cg==",
+  "sha256": "df7e3fec8a9281a6b3a2fa3c5bb832ab29e97b52dbf8e38305d52ffe7f48ee3a",
+  "size_bytes": 28952588,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFJjZmlOaThlOGRvSDR3MFJqZXdDdURHbzRtWXJEa29ySVJ6b2ViWGNlZElhc0FjTUsxaDhKSzN3NzNuYVVicFpmRkkrNG94am9zajB2R0tyeW9seXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTU5NjAxCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApyZnZsbkhGdmFYR2JFQVlHa2JxbEpOY09aZDhQUEp6NU4xLzllSWMvZGMyVjltNmp3SGR1T2VCQWRhWEdTRUtUL2dQdUc5QWFKdVY2bnlwVEhUb2REdz09Cg==",
   "required": false
 }
