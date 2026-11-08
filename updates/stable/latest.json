@@ -1,14 +1,14 @@
 {
-  "version": "0.3.48",
-  "notes": "Caisse : plus de chevauchements sur petit écran (quantité, Exact, Vendre). La notification de mise à jour se range dans la barre du haut et peut se masquer. Nouveau : code du patron (Paramètres) : les employés font tout, mais ne voient ni les prix d’achat, ni les Rapports. Assistant : petite fenêtre dans le coin, travail du jour et documents en un clic, chiffres vérifiés par le programme. Factures fournisseurs : les lignes lues avec doute sont signalées.",
+  "version": "0.3.49",
+  "notes": "Réparations plus rapides. Nouvelle réparation sur un seul écran : client retrouvé par son numéro, modèles fréquents en un clic, reste à payer toujours visible. Fin de réparation dans une seule fenêtre : prix, technicien, un bouton qui prévient le client. Rendu du téléphone dans une seule fenêtre qui se ferme toute seule. Scanner l’étiquette ouvre directement la bonne fenêtre. Réparations payées en espèces uniquement.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFM1KzlZV3VWOGF0Y0lxcmtwWWNjT0RHVm9rK2ZYc25wSCtOS2RXU0VwOWNLNmphUXdjKzczeXYwV2dnMy9OV2ZuSWFNeERSeVY1MzNoalo1VDBlVWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk1Mzg2CWZpbGU6Q2hlY2stUHJvLTAuMy40OC14NjQtc2V0dXAuZXhlCjlMYTlqdE03ZmxGQXhLR1EwVU4wdVRWUHRmMXorQWVaQWp1UmRpQUdpeWw1NkNxdjRsNlU1ME1LcUpBbk1mdkR1SndENmdkU0hsU2Rpa2hyRVN4ZUNRPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.48/Check-Pro-0.3.48-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFdIak1tcm1CVUN3YjRlZEc5MjUrZ29qU0wvQlRKYUtlbXdZYVR2KzV2cDVGdk5MTDU3NGZLMUg4RmlxL1VvOTU5MVFIVWlGaHU4M09neXlNaHY4b2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyNDQwCWZpbGU6Q2hlY2stUHJvLTAuMy40OS14NjQtc2V0dXAuZXhlClBKY092djE1Mkw5cUxJOCtuZytlQmthVEpkVUYzK0hQVXljcHMyN2dsUDVRTHVkR3dROUVSL3RFclFXcHdTSWNtTzlsU2V2UEJxRkdNVStCVkx1MURRPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.49/Check-Pro-0.3.49-x64-setup.exe"
     }
   },
-  "sha256": "50933c7ac0f4047f18aa69d49877df1b8feeab527cc0ff3f63754125928bd22f",
-  "size_bytes": 28934835,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGNpRm91enFWUlNqYUJtYndwMUVIUkE3V2VBcXg2ZFhiMHVlSkNYTEhhcm93eTZFTzk0ZXA0cjM3MUp0ZjV1ZkJzVmsxa0hnTDlmSU9iY0t4NHBWdGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk1Mzg2CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAoxZjJ6RWZ6OEV2YWdhdVUvbUl1SkFrV0NVNzVpL2pIN2x4MDloMjF2eSt1RHhQMTgwSmVuaWF5M2VzSmo0ZDdNMU4vWmg1ckNHN1BNMmZQcFpWYW1Ddz09Cg==",
+  "sha256": "58b4f25ad5c68c5acc5aea1578663480bb0046caa80493e728ae82cf19056425",
+  "size_bytes": 28931820,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFpKUi9NUURtakUwVlpWQmNuSjBSUWdyc09YTFBRbG52cjNJSEs0Y0h6TnRiTnlMOFZ2NWovc2Z1UlFlbm9NSkw2WWE0WFJvMHd2T0w3YXR2N2tRTXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTQyNDQwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAo0c1NmUG90UFpxcEdOdjFJOHk2L1BqTXJEZlg1cFpsb3BKdTBOMVVIbU9YWEt0cFQ0cnp4dUMvdTloSFdOUVB0QkxQR1ZNeStFOE83UmUvQzhqWFdBQT09Cg==",
   "required": false
 }
