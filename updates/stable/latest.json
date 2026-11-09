@@ -1,14 +1,14 @@
 {
-  "version": "0.3.51",
-  "notes": "Stock : nouveau produit plus simple. Tapez le nom, la quantité et les deux prix ; le type, la marque et le modèle sont lus dans le nom. Alerte si le produit ou le code-barres existe déjà, avec Ajouter au stock. Prix écrits 4 500, alerte si le prix de vente est vide. Entrée crée et imprime les étiquettes. Plus de détails : choix en un clic. Étiquettes code-barres : 4 modèles prêts (Classique par défaut), taille et place de chaque partie.",
+  "version": "0.3.52",
+  "notes": "Téléphones par IMEI : l'entrée de stock accepte l'IMEI, l'état et la batterie de chaque téléphone. À la vente, la facture et le certificat se remplissent seuls, avec un nouveau modèle A4 pour les téléphones. S'il y a un doute, scannez la boîte ou choisissez l'IMEI. Au retour, choisissez le téléphone rendu. Assistant IA : marche sur tous les PC sans clé à entrer, avec des messages clairs en français et en arabe.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFg0ZlFYNi9UZzlLK3M3U2FRa0MzWWgvU1B4QUhiZzhYaEk0Y1BVQ3VEbzNwTlV2Vk85ODRybWJzRXBvbGdud2ltWVZPSitWbWJMM2Z0MDFFUWZmcndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcxMDM1CWZpbGU6Q2hlY2stUHJvLTAuMy41MS14NjQtc2V0dXAuZXhlCmZmWlFCMDlpS1lkL0VSVFN5OW1YMHc3TUNhR01WVUpvQURyQjViazVTVVZESjZCZHlic3Awd2pJYm9kamM0SXdBZjNoV2V0bzM4SVU5bE1aMjJySkJnPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.51/Check-Pro-0.3.51-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGZWazJZZjJYcFZLUE0xMUZhYlI1SEVKUGNYM3FZUGVHT0YrQzE2TndEK1ZCZE43OEZNUVNqMnBGQVVRWXNCTnVnSFZkZTJuT2hiOXlMVVU2YjhPaGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQ0MDg1CWZpbGU6Q2hlY2stUHJvLTAuMy41Mi14NjQtc2V0dXAuZXhlCm5HUzlNbUZQV3d0L1poU0dZSGdISjc4UldTZ2tGVUJocng3RWNsVkNleTI0QURKNjd4elRRSGdqN09rM3dMSU1CYzJBYnkva1B5ZktPV1VpWjdWQ0NBPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.52/Check-Pro-0.3.52-x64-setup.exe"
     }
   },
-  "sha256": "fb262c0d50f39ca4a46502aae7f8b7a3207896e891f6cadb0656426e26ce563d",
-  "size_bytes": 28944902,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGJYb3hEdlljT3JlUmhYQ2tqK1RNTXE5YXg5YlJmMEEyUE1uVzZ1OXcwOXZUK2tsU0hheWQ0aFYxK0trYUhaRy92Y2RrRzFYODdRVnAzenkrUG01UmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTcxMDM1CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAowS3IzbWhvVDE1UkUxcWcxdWc0M2RpSVR2YytHNEhlVnE1a0p3K0ZjL1hBVXRqYVUxSXhLdnUwaTVlcjZvS3RIRHp6bnE2SmhSSS9uWmp6N2Q0MmxEUT09Cg==",
+  "sha256": "4bff4c2772860d277169a320b29bb430e7f860ce0e74249ade4ca9615e537d5b",
+  "size_bytes": 28983143,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGR4WEE4SzhxU2xIakJSTFlBQ2NTQjJCcXhjMzBXTis4NlNGMUV3ZkpidXhFSU5hSDFoRzNabEwyb25SbnJaSDRTTHViekk5Tk1YVC95dFp4ejVDTGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQ0MDg1CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAppQWE2VFMxLzBuL2dGU05saEJXQWZ3YWtaS3p1OVl0QjhUZjdZMzgwZmhUVVZWWnJQbG9vVGczcnFXemZRRmNObjEzaGYzMmlzdE5RS1RNT0h1U3hDUT09Cg==",
   "required": false
 }
