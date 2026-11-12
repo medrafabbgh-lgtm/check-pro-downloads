@@ -1,14 +1,14 @@
 {
-  "version": "0.3.56",
-  "notes": "Tickets de vente : le ticket imprimé après une vente ou depuis l'historique des ventes sort de nouveau en pleine largeur sur le rouleau 80 mm. Imprimantes : la fenêtre « Sur quelle imprimante ? » s'ouvre au-dessus des dernières ventes. Une impression ne reste plus bloquée sur « Impression… » : si Windows ou Check Pro ne répond pas en 10 secondes, elle s'arrête avec un message qui dit quoi, rien n'est envoyé, et la suivante part.",
+  "version": "0.3.57",
+  "notes": "Étiquettes : dans Paramètres, Impression, chaque partie de l'étiquette prix se glisse où vous voulez sur le papier. Une barre sous l'étiquette règle la partie choisie : taille, gauche, milieu, droite, masquer. Vous pouvez ajouter un texte, votre logo ou un trait. Un avertissement en rouge montre ce qui se chevauche, couvre le code-barres ou sort de l'étiquette. Tickets : les accents des titres (REÇU DE DÉPÔT) restent bien sur leurs lettres.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFR5NmZoSzBQN1VaTW1LbFZCQlZUQlY3eDhlODRERjE1TWZxOCtqNWdrTkZrR2JqZmx2RWlGMzFyOFVWL3o1ejF2cmVWZmMyOGlIS1BUWHBNMVppendZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkzMDc3CWZpbGU6Q2hlY2stUHJvLTAuMy41Ni14NjQtc2V0dXAuZXhlCm9STDlTdys5Zld6Tk1rWTVNRHdUaldoSmwxUUpYb1ZvaUdBQmh3YVllZFNLZHVvbGh1aXZibGZodUZoeVlmVjREMWpRMUkyck4zNVFoTVBxaFRDL0RnPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.56/Check-Pro-0.3.56-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFV1aGtpbjdoTG5Ha0ZSZnlPTldPeXRUMUpnMFh6Qy9MaXdoU0huYmNhOVlGR3F4TkNYMmROakhMb28zOWZEak9US21jMnJ6VXRqYm8vbWZEZ3Z4UFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA5NjUwCWZpbGU6Q2hlY2stUHJvLTAuMy41Ny14NjQtc2V0dXAuZXhlCk9VWXhML3RxMm5maVgrSW9tMXNiTnQzMkJMTVlaakl2VytNK0dyRUhqdUdRM2VyaG5CWXBYNFJQdU9VTDBKVHM2U0IrZnVLUzRPVEY4eVVpblFsYkJBPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.57/Check-Pro-0.3.57-x64-setup.exe"
     }
   },
-  "sha256": "344c542ae5006cbc8cb4c3c5350667e5a6732630cd01cf86f1d0308ff6594e76",
-  "size_bytes": 54961031,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFptU2F1dnV3QXJhYVVtcUx1RTJhYW5yckQ3aDl2QkNLVWpMK2RjMXEzMlArQXRmSTRVVjJIL0Q3NjJGYTNWUGxhdTZVc1RXelJXZktveXJWbklwV3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkzMDc4CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApuQ1ZuTWVrdEVTSFdzbGNpdEtsenZpWENLQnV4V0xvU25hSWdZM003WXJFRHlsMXhoUlNJOG5yTHRlc3daSGhDWTVVQzk3cE43Z2tlVlRLSitHclZEdz09Cg==",
+  "sha256": "b83b7fa67e85bf909886d1448ac9c6dd6405fbdb6ca1cfc4f56fadc2e045cbf0",
+  "size_bytes": 54959429,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFI2Z0p3aWRXSGEwd0NDVTBRTnlDdUN0U0h1MTFlT1Q4MFJTSTE2cXRXUi91M1JhRi9uaStRenNLb2YzVWdwWXl6Tmcybml2S3NSWE1odUtoTUtkbEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA5NjUwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApZV1RqYVVyY2E2QkFMNDFNUW9pVjdSMHBFNUJBa25NejZwVHkyUFBtRm9peElHWVlrOVRCVlFpT3BkY0o0OUVFNnV1aUl5R2Y2Wmo5NWhTNmhzRzJEdz09Cg==",
   "required": false
 }
