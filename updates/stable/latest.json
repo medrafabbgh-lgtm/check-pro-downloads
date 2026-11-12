@@ -1,14 +1,14 @@
 {
-  "version": "0.3.55",
-  "notes": "Imprimantes : un bouton pour chaque ticket et chaque étiquette, et vous changez d'imprimante librement, même si l'ancienne n'est plus branchée. Check Pro montre les imprimantes vraiment branchées et ne dit plus Prête pour une imprimante débranchée. Deux imprimantes 2-en-1 identiques : une seule question au premier ticket, puis tout se règle seul. Étiquette du téléphone sans QR code, en 40 × 20 ou 50 × 30 au choix à la création de la réparation. Éditeur de documents : ce que vous voyez est ce qui s'imprime.",
+  "version": "0.3.56",
+  "notes": "Tickets de vente : le ticket imprimé après une vente ou depuis l'historique des ventes sort de nouveau en pleine largeur sur le rouleau 80 mm. Imprimantes : la fenêtre « Sur quelle imprimante ? » s'ouvre au-dessus des dernières ventes. Une impression ne reste plus bloquée sur « Impression… » : si Windows ou Check Pro ne répond pas en 10 secondes, elle s'arrête avec un message qui dit quoi, rien n'est envoyé, et la suivante part.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFRNeDRNL1FKcjNmTmJOVWRqaEZrODQ3NFdSSVNlVGFPdnF3TDlEMEJoRGF2TzFRVWRzU1FST3VDSGZNbnBMRTFzZEZwbXZRMGNRTlYzNUt0MTdxbGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEwOTMzCWZpbGU6Q2hlY2stUHJvLTAuMy41NS14NjQtc2V0dXAuZXhlCkpzbzNhUUVQMnhZTkNlYVJpbnFSdTZRTHJNVEFDUytDbE9hd0xGWTdEZlltODlPUjBYb3kreWJ3WjZYY2l1SEZCNTkyQXRnZ3NEQ083SHBrdEJzWEN3PT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.55/Check-Pro-0.3.55-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFR5NmZoSzBQN1VaTW1LbFZCQlZUQlY3eDhlODRERjE1TWZxOCtqNWdrTkZrR2JqZmx2RWlGMzFyOFVWL3o1ejF2cmVWZmMyOGlIS1BUWHBNMVppendZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkzMDc3CWZpbGU6Q2hlY2stUHJvLTAuMy41Ni14NjQtc2V0dXAuZXhlCm9STDlTdys5Zld6Tk1rWTVNRHdUaldoSmwxUUpYb1ZvaUdBQmh3YVllZFNLZHVvbGh1aXZibGZodUZoeVlmVjREMWpRMUkyck4zNVFoTVBxaFRDL0RnPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.56/Check-Pro-0.3.56-x64-setup.exe"
     }
   },
-  "sha256": "e1514f66628598f084437fcc7ce4755d7bea736b1de03b23fae4dfa2351b281d",
-  "size_bytes": 54979798,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFVaeWtoOWU4YWFubmdjZmxoMW45RnR2VFZNbk42WWw2UVl6bnpFWUh1dkN4c25idG5uL0N2cWRGS0tiY0Jpc0IzSlJBY3pmUER1dUV4cUNlQnZQU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEwOTMzCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAp0UkZobW9qVHAyeEFzdHROekxOVWNSTmVDRjZLY1M5Mi9NWlpTZGZrRjJma1dUVC9CZXhmTTdFdWlwYzBDQ09IWTdmOTlaTER4V2d3KzNZT1pqTFFCUT09Cg==",
+  "sha256": "344c542ae5006cbc8cb4c3c5350667e5a6732630cd01cf86f1d0308ff6594e76",
+  "size_bytes": 54961031,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFptU2F1dnV3QXJhYVVtcUx1RTJhYW5yckQ3aDl2QkNLVWpMK2RjMXEzMlArQXRmSTRVVjJIL0Q3NjJGYTNWUGxhdTZVc1RXelJXZktveXJWbklwV3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDkzMDc4CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApuQ1ZuTWVrdEVTSFdzbGNpdEtsenZpWENLQnV4V0xvU25hSWdZM003WXJFRHlsMXhoUlNJOG5yTHRlc3daSGhDWTVVQzk3cE43Z2tlVlRLSitHclZEdz09Cg==",
   "required": false
 }
