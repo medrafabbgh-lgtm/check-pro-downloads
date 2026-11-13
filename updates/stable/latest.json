@@ -1,14 +1,14 @@
 {
-  "version": "0.3.57",
-  "notes": "Étiquettes : dans Paramètres, Impression, chaque partie de l'étiquette prix se glisse où vous voulez sur le papier. Une barre sous l'étiquette règle la partie choisie : taille, gauche, milieu, droite, masquer. Vous pouvez ajouter un texte, votre logo ou un trait. Un avertissement en rouge montre ce qui se chevauche, couvre le code-barres ou sort de l'étiquette. Tickets : les accents des titres (REÇU DE DÉPÔT) restent bien sur leurs lettres.",
+  "version": "0.3.58",
+  "notes": "Les pages bougent comme sur un téléphone : la page s'ouvre depuis son icône, bouton Retour en haut à gauche, molette sur le dock pour la page d'à côté, chiffre rouge sur la Caisse quand un panier attend. Éditeur de documents complet (Paramètres, Impression). Étiquettes : gras, police, majuscules, blanc sur noir, cadre, texte tourné, nouveaux champs, code en barres ou QR. Tickets et A4 : déplacer, renommer ou masquer une ligne, ajouter un texte, un logo, un trait ou un cadre. Réglages du ticket : lettres, espace, traits, marges.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFV1aGtpbjdoTG5Ha0ZSZnlPTldPeXRUMUpnMFh6Qy9MaXdoU0huYmNhOVlGR3F4TkNYMmROakhMb28zOWZEak9US21jMnJ6VXRqYm8vbWZEZ3Z4UFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA5NjUwCWZpbGU6Q2hlY2stUHJvLTAuMy41Ny14NjQtc2V0dXAuZXhlCk9VWXhML3RxMm5maVgrSW9tMXNiTnQzMkJMTVlaakl2VytNK0dyRUhqdUdRM2VyaG5CWXBYNFJQdU9VTDBKVHM2U0IrZnVLUzRPVEY4eVVpblFsYkJBPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.57/Check-Pro-0.3.57-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGZmaUcwVFRYaVd1R1kzN3l1VUVOdXFiRDh4TE4vOG5aVXd2TktMWVpnalMyZHdVZkVQUy9OSmVIY3gzVHoyZkJ2QTZOTFRpRUl3S3EwM3F1cng3RkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg2NTQyCWZpbGU6Q2hlY2stUHJvLTAuMy41OC14NjQtc2V0dXAuZXhlCjVWb1ZXRmNZdzduOENGK0daY2UyNk9qWHpFWkFDNGZPcHlySzQvS29jNksrVk1OUVdyZVBCRzBVdWY4VFh3VURUbzhBNE9vbWdTRVMwTFdESzVPWkFnPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.58/Check-Pro-0.3.58-x64-setup.exe"
     }
   },
-  "sha256": "b83b7fa67e85bf909886d1448ac9c6dd6405fbdb6ca1cfc4f56fadc2e045cbf0",
-  "size_bytes": 54959429,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFI2Z0p3aWRXSGEwd0NDVTBRTnlDdUN0U0h1MTFlT1Q4MFJTSTE2cXRXUi91M1JhRi9uaStRenNLb2YzVWdwWXl6Tmcybml2S3NSWE1odUtoTUtkbEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTA5NjUwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApZV1RqYVVyY2E2QkFMNDFNUW9pVjdSMHBFNUJBa25NejZwVHkyUFBtRm9peElHWVlrOVRCVlFpT3BkY0o0OUVFNnV1aUl5R2Y2Wmo5NWhTNmhzRzJEdz09Cg==",
+  "sha256": "17f57419aaabc9d478b65113348953c70993586c8266477804a90b1a9d442177",
+  "size_bytes": 54990154,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFNGUGdxVW1LWTJmdU5xcUo5VnJ3Zk1MZmNoQjRNRTNiVlQ5VnZlQmVwc2xDSFd1ZW1WRHJBVFRGcEV2T25BdkFGcXN0OCtqZ2lSc3lUZzE1aFc1dmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTg2NTQyCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAoycmFqUHZzZDN3N21MK1NaRGxhZUp4Znc2RGMybXYrUXhySnFKUXFsMEdFWkRQc1ZJditFeWVPRjRjVGgzblhLbmR3RXhtVXR0NjFlc3o2UENSc2NCdz09Cg==",
   "required": false
 }
