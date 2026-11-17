@@ -1,14 +1,14 @@
 {
-  "version": "0.3.59",
-  "notes": "Nouvel éditeur des documents en plein écran : la feuille en grand, les parties à gauche, les outils en bas. Rétablir avec Ctrl+Y, taille à la molette, clic sur un mot du ticket pour le changer. Étiquette prix : stock, référence, ancien prix barré et code QR. Bouton Retour plus grand en haut à gauche ; le bouton arrière de la souris et Alt + flèche gauche reviennent aussi en arrière, jamais en quittant une fiche ouverte.",
+  "version": "0.3.60",
+  "notes": "Les touches du clavier sont maintenant dessinées sur les boutons : F2 pour chercher, F4 pour ajouter (nouveau ticket, nouveau produit, client à la caisse), F8 pour la dette à la caisse, F9 pour valider (Vendre, Ouvrir la réparation, Enregistrer). La souris marche comme avant. Barre du bas : chaque icône porte son nom, avec un chiffre quand quelque chose attend (réparations à rendre, clients qui doivent, stock à racheter, articles dans la caisse). La barre ne reste plus bloquée ouverte.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGQ2Sy8zSjJRK1IzcG90cDFCQklSZzVLMitFRXcvZzA5ZmdNeldsL2Z0SkhMZlRyL2MrYXI2di9BRjQ1VkFZSmVhREZ4MDV2Z3JrLzlqeHhBN3NTeUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1MDM2CWZpbGU6Q2hlY2stUHJvLTAuMy41OS14NjQtc2V0dXAuZXhlCnZBMHFhODllOHlPVVdaQnhlRXU2QWg4blNOMGc1KzBKNlNIbHkzWGxqSG1yVmtscmUwQ1dCR2FNWVZXYXBrcjJ3azZsV0poZ21CMmUxWEJOWFRjckNBPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.59/Check-Pro-0.3.59-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGJzU2FsUnUyWDBRWjY1K0xIVGxmWFhrNTBndm4yV2FCRHlSTHA4L3YrZUpRRFphNlBaRlJTRUo5b24zdGlGMVVWQi9yMjVvSEhBWE1pZExtcHNwMFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTE2MjAxCWZpbGU6Q2hlY2stUHJvLTAuMy42MC14NjQtc2V0dXAuZXhlCmpjRkhRODlOL0wwd1ZXdHRNWG4xV2ovSHp6aEo4ZWpYem54UVVpMVNleTI0ams3RGV4RFdCeStDZTBEVHR4K2VVVlJQWUc2MGtsVDhLeDlBNDM0UENnPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.60/Check-Pro-0.3.60-x64-setup.exe"
     }
   },
-  "sha256": "b3e1c00dbb97abb14f3100401096b44b163ba2cff3680ee700a44f7d3c02a3ce",
-  "size_bytes": 55010576,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGNUcjA0MlVyVmdhZHd3UUhGRkRqZmhFcGI4VVZvWktpTzlvRkJKQzJJaHhJNlkvUmZGWWxqZ2lLVytkNm9DT2Q1cU1CZVcrcHlnKzZKcXZvYVBEQ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1MDM2CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApBZnllSFlZUWEyQ3FDWWE1UlVDQUdUc05HaVAzMlhXQUNhaTR4d25lUE45K3o2NCtPTTQzSWo0dmxDYXhKZ0VuSG5NTEF1WkFpZ1JxOG5QOTJ4L3BBQT09Cg==",
+  "sha256": "3db6e845edf2de3d090d980a3524388afb5afa2c95f82ef10b273ca0ec3016e8",
+  "size_bytes": 55013822,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGFITGJNamJFMDBuZmdiNFpMQ2I4VTByRU9PWE9qbjdoSEk2YUhCK2VsN1pZZDJIa0pEZjlseENMOEVxK2hLV2N1ejErb3ZNUFIxbVIrN2hJcTVlOGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTE2MjAxCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApyZ3dielR3MWNIUUJxUm14cEdROG9mY1lpRWVPa3BveHNyNGx3NklpcEZFdFNaZktGZTZneURFNUo2RnRubUV0QUcwOHRLQUFLVm1VWW92RG9KNGpDUT09Cg==",
   "required": false
 }
