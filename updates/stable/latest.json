@@ -1,14 +1,14 @@
 {
-  "version": "0.3.62",
-  "notes": "Réparations : orange quand le téléphone est reçu ou en réparation, vert quand il est réparé, rouge quand il n'a pas pu être réparé, en couleurs plus vives. Page QR du client : un grand bloc de couleur dit où en est la réparation, le dernier message de la cloche s'affiche juste en dessous, et aucun prix ni montant n'y apparaît plus. Mettez à jour le PC principal en premier.",
+  "version": "0.3.63",
+  "notes": "Réparations : cartes plus petites, quatre par ligne, et bandeaux fins en haut, pour voir beaucoup plus de réparations sans descendre. Étiquette de réparation : si l'imprimante ne donne que 40 × 20 mm, elle est imprimée en entier en 40 × 20 au lieu d'être réduite, avec un bouton pour garder cette taille. Une impression plus petite que prévu est toujours signalée. Mettez à jour le PC principal en premier.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGVvNU5pMGdjcWRnOWh5SFNRb0NWbTB2UllMSnlZMHYrZ1F4OE1NczlCUllJMHlENjZ2L2pOcy9rZC92bnBhem5HRG1DU2lhdjE3Y1ZjWHRxN3VxUVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAxMTQ1CWZpbGU6Q2hlY2stUHJvLTAuMy42Mi14NjQtc2V0dXAuZXhlClQ5bWVacWthcUNtWnJsUEUwM3JsRFVDNFVSeGt3NUJwVmJkT0lWaGwxUFozcDJEc05XTThjQnlkTEkxekZ4Ry8xVk81Y205czdzYVZnWEp1dGZrUkFnPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.62/Check-Pro-0.3.62-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFl4OWllcTFjS3FhaDdzY1BDNTl3bitZV3dWcWZKc2N2VjRMbFBXVWhaVVdxTlZUaGRCa0o3dU93NlV5NmZzNDdHNW5KTStXWWhlQ2tlMHF3bjRtaGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA4MjQ5CWZpbGU6Q2hlY2stUHJvLTAuMy42My14NjQtc2V0dXAuZXhlClZpNm9zQjFFejNwRk02Q1NyYi8zTytDb1VCOGRadVo1MEJVTGZDTzNGd2kwbGFVaDg0c2VBam1HOWZlMnZ2NitMV0kxcllkTlZnVGgrSUVpZTgvcUJ3PT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.63/Check-Pro-0.3.63-x64-setup.exe"
     }
   },
-  "sha256": "60d9d34c3aec9b94dc7628cf10be073b9c0696ce4b7dd54cba0e6b6a032c7202",
-  "size_bytes": 55033991,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFN5Q3ZCUWFEZk14ZW1PT3pGejdNZlY2Z2lSSHl6SW5DRC9xYllvVUtISENCcGtKallWU2Rha0kvN3lOUFd4MzRqVVZKZ0FQMUIvblRqZ2FubXhFK2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAxMTQ2CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAp3R3ZDaExOVzkvU3VoQkFRZ0FCTEhxQ0xab2d2Z2NCTEdlRDJjK3ltNnBjWVd0WnRNNm01Rmd1N3pKTm1CV1RvQ2FwbGw5OVBYZTJVc0s2dFRmbWFBZz09Cg==",
+  "sha256": "f819f30195432f18c14eb6b04c5841c265ff012347c1e5e2b57d22bb01bce7de",
+  "size_bytes": 55035151,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGZNLzM5L0ZwTzdXKzNpRUxTRXEveEpYVTJ0NENueDhBa0JBeUlBVjltU1VISnFuUUV1bkYrdTJFWmoxcnpSWjFSVFpPOHkvOC9VZmQ5b241T2tFckFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA4MjUwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApNMDIwdndrd0VWNjMrZXh1dWRndnFkQVp4SmFzSVJ4bG1QNXlpOVBYYmpVRmtrRVAyRmlMcURybEdXWE80UXdxM1BBbUVJU3RqalVtL3ZHQXY5M29BZz09Cg==",
   "required": false
 }
