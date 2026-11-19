@@ -1,14 +1,14 @@
 {
-  "version": "0.3.64",
-  "notes": "L'étiquette du téléphone ne s'imprime plus toute seule à la création d'une réparation : appuyez sur Imprimer. Réparations : un bouton « Modifier la réparation » permet de tout corriger sur une réparation terminée, même déjà rendue au client : résultat, pièces, prix et montant payé, avec une raison. Le stock, les dettes, l'historique et les rapports suivent tout seuls. Cela marche aussi quand les téléphones sont connectés. Mettez à jour le PC principal en premier.",
+  "version": "0.3.65",
+  "notes": "Nouveau : Aide Check Pro. Dans Paramètres, Connexion, appuyez sur « Demander de l'aide » et lisez le code au support. Le support voit seulement Check Pro, et chaque modification vous est demandée : rien ne change sans « Accepter ». Arrêter coupe l'aide tout de suite, et elle s'arrête seule après 8 heures. Vous pouvez aussi envoyer les rapports d'erreur à Check Pro pour corriger les pannes plus vite.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFRDemF3anJlbGVtT3NSdytDeUpBRXlqTm5iMFZvMVNabmh4eDZpVUh1RG51S2gyN2FGUHBTU2NaVWRiR2t4ejJuZnVQWVQzRzErMEE3QWcvMXM2eFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM1MjA4CWZpbGU6Q2hlY2stUHJvLTAuMy42NC14NjQtc2V0dXAuZXhlClNMTDhzSWFGZVhhYUpKc1JIR3VUcmp1RjMrSncwSVdiei84YjdCQkVUbU5xR3lxOWNJUXIvVTd2M3NWK0JnY1d6THJoajFzeWpPY1k0SU85endEdkFRPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.64/Check-Pro-0.3.64-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGV4UUxOemlKQXlJaStFczcrR3RnN2oxMjMvMitld1I1QS9OK1dzcXBwcndsVkZqck9Jcm4yZjNtNnNaSnNlemU1QVJlazl3cDRISjNtYlhmN0tmSGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTExMTUwCWZpbGU6Q2hlY2stUHJvLTAuMy42NS14NjQtc2V0dXAuZXhlCkIxTWRESy9PNzI2MmU3eFl4U1FVNnlTOTNqSURnMTU4K2p4R2tnWGE1VmVKZlgwanRYNW96Y3NMWW01VVlnVTdMR3hCUmhZMGVPeCtRdnJ5M0xwT0J3PT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.65/Check-Pro-0.3.65-x64-setup.exe"
     }
   },
-  "sha256": "c5c79ba7b87b53c3989211f728f57bfe66c2491070f2c076755f52c4f76deb4b",
-  "size_bytes": 55074474,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFEvb0NxVWI0MTJjV3NZRkRYR0pOUVl0blMvZG1oWE5jckVhdTd1MUNYdjdpZUs5eXlZZFNxbkU5Wk5maXFHcnQ0Wm1qR1dnbnFKdGh1SjQ1ZGFzUFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM1MjA4CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApZcitlZHc4d2N6UTJ2MlQxVWN2eWIrSDRBVG5qcFUzRW4vN3M3NllqQ1F1NUt2dGU3VFhrSjVnbUc0RE5UZUZNZUEycWtpYXJXLzZmUU9YbVR4Vm1CZz09Cg==",
+  "sha256": "94ff7d0995165bac233111f4775a04f2c1f402a51636def56d1943dd75c50ed7",
+  "size_bytes": 55523448,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGU5bGtxSXVPVng5ZnFseFhPdVp0M28rTjFxaG9ndXN2RG11SUp6SzlLTmdxMUdMYUtyd2ZxUFRNa0tsbkpxaWlKT2pNQ1gwV011UnpOWXY4Sm1tUHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTExMTUwCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApXT1hGRG4ydUpnemRYcVo3dzZTb1Uwald5bkgvdTZENVo0bHVWSjRUbVhMTEg3V3BHUnVIdDVtNzA0Y00vdzhmdEVCVFFhU1l5Z0U2K1lXZkp0M2ZDdz09Cg==",
   "required": false
 }
