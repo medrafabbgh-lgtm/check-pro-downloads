@@ -1,14 +1,14 @@
 {
-  "version": "0.3.66",
-  "notes": "Les tickets de caisse s'impriment à nouveau en taille réelle. Le lecteur de code-barres écrit les bons chiffres avec un clavier AZERTY, et un scan ouvre la réparation sans cliquer. Aide Check Pro : un seul « Tout accepter » vaut pour toute la séance d'aide, et Arrêter la coupe toujours. Le support peut aussi vérifier une impression, aider dans les fenêtres des pilotes et lire un téléphone Android branché en USB, toujours avec votre accord.",
+  "version": "0.3.67",
+  "notes": "Les étiquettes s'impriment à nouveau en entier : depuis la 0.3.66, le côté droit pouvait être coupé quand le pilote de l'imprimante ajoute des marges (par exemple Xprinter XP-370B). Les tickets de caisse restent en taille réelle.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFcrZXpjRU1SRkxld1V6akhoTWkwajVmZ2k1RzZPN2hxU2tNU0ZWdFduNEw1YU1Qdkd1azZPWmhHKzMvMzJqTTMyaHlBMXNlaFA2ZGs0VDlTVElhK1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjAyMzk2CWZpbGU6Q2hlY2stUHJvLTAuMy42Ni14NjQtc2V0dXAuZXhlCnd1RU0veGdOZG5WYkJFWC8vdExSZmliMFRVUG8vUGlydzV2d1ZKNVhLZWxERXN2cHk5NFRIVnRMcXByNXBnVElWK1ZBOXpodC9tYllaa3BqQVFBaURnPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.66/Check-Pro-0.3.66-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFNBcnZhK1lxM2FKdVdBc2N5YjVIbTJlVGdVRGlrcmNpelB1dkZCaUJPM1lIbGpCNTB6L1EweUxrZ2NLN2dlSEFON3FHcHpsd3JUZlEvZXczaXFERGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjczNDgyCWZpbGU6Q2hlY2stUHJvLTAuMy42Ny14NjQtc2V0dXAuZXhlClN1azZsY012OEhBaE50eDd3QWt3TEdlSkdNRFdQeG5hemNqKzhtS29jbStyMU5mWW5DcEk3UmY2ajRab3ViMUFuczM5OXh4TVo3bFF2VFFSaGVDV0NRPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.67/Check-Pro-0.3.67-x64-setup.exe"
     }
   },
-  "sha256": "cd86c734f2495abaefa9c54c924fecd0dd5361db7177f90a62bd7383d7a911b1",
-  "size_bytes": 55573787,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFp4dTYwSlFtampUajlIRFNlL3NIYklpc05PSXo4ajl5QmpPOFE5Tmd4UnlXQW05UlZEMjJBNGp3WlJrcldRb1g4cVBhczVYUzdDeGRJd0MwMGtobnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjAyMzk3CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApMdkNhZlFuZllya3RGckNsTTV1aXFFQVVnYlE5amZkSGNjOHBzZjBhUzJXTURNcGpBRTlENE9hZnZuaGJmYlA2ZlNONVlCRGw2NHdNWkNHUUE4QnlEdz09Cg==",
+  "sha256": "3faa853c6ceb75a187634df8b0d2c2c1ca98cfa8bb6abe29764b6459d598bfd0",
+  "size_bytes": 55572564,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFFGc1Q3TXRvMHIyRk9iT1FpNGh3WWk1Nm1nVWFLZkFIckpITTVsM01IYThjT3FYaWhIUytzUk4vTzFBOGJNS0JoUGNUWnloSldWeFhZanhiKzVHRlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjczNDgyCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAoySEdIS3VHZ2xqbWNvMFZBSHc2TDJqQ2JJNVZ2MU9OTFJyN3FNNHF6ZkkvdUk4WkYxTUkwN1lRWlVsR0lHRE5zeUhldWh2K3ByZytTTGVyaU10RXlDdz09Cg==",
   "required": false
 }
