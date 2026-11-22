@@ -1,14 +1,14 @@
 {
-  "version": "0.3.68",
-  "notes": "Nouveaux Paramètres : une liste de sujets à gauche (Atelier, Impression, Téléphones, SMS, Aide à distance, Code du patron, Argent, Étagères, Langue et thème, Mises à jour, Avancé), un seul sujet affiché à la fois. Dans une petite fenêtre, la liste s'ouvre depuis un bouton. Les réglages d'argent sont maintenant dans Paramètres, derrière le code du patron. Vos données ne changent pas.",
+  "version": "0.3.69",
+  "notes": "Nouveau : Services IMEI dans Contrôle iPhone (vérifications par IMEI, ouverture prochaine). L'assistant répond dans la langue de la question (français ou arabe), trouve mieux vos ventes, dettes, stock et réparations, et répond aussi un jour sans vente. Page QR du client : les réponses du magasin ne sont plus écrites en grandes majuscules bleues. 18 petites améliorations d'affichage dans les pages. Vos données ne changent pas.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFJSZTAxOGV3Qmw3RXN3UDZyMENIdEdqU0VTWnYra2J1Y2ZOc2YySEJFa1h4L01TbVpidFFMYlozaS9zZDFseUIvb0U0b0JBQStRK2krNWlBVlZ2cmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjk2MTkyCWZpbGU6Q2hlY2stUHJvLTAuMy42OC14NjQtc2V0dXAuZXhlClhCMXBzSzMwL3lyNzZGTTNpN2l4TEs0ZlgrcDVuQjFGS0tsTmV4ckpUNXllcVVOM205bUVXR1hRTVNRRVlWRzBNTWo1L1Baa3N0N3dEalFEQzBFTUN3PT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.68/Check-Pro-0.3.68-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGQ4b2xpbGtvRkttRXhhdnNTMVI3SFN0VmtyelJucGEvQWVTM0Z4VzBwTWFZbi8yaFkvQXVPWkZlNXhrZjhSK1VEeml4UVhSTTlOc01iTmpPRnlaaEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyMzI4CWZpbGU6Q2hlY2stUHJvLTAuMy42OS14NjQtc2V0dXAuZXhlCkJrYXVob1ZOclE4aHF5YUdBTnlIaVpZcnJBZmp6WjM0cFBpMUlxRlFOWjdzbDFIRFkyeGlKUno2KzM0QnRLb1ZEb2Y3T2NraDZubkpzN2tYai9IYkFRPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.69/Check-Pro-0.3.69-x64-setup.exe"
     }
   },
-  "sha256": "66cf350cc7612321156de4a877b895b5c561dfc06858d6d69415925a2665838b",
-  "size_bytes": 55577188,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFd4ODRXS0V6SFh1T1k3dVBZZ3lSa2ZkNkJBdk9CMmVYeXU1SFZLRU1EVVdrcnZDekpZcHIvUjFkemZVT0NhZE1lWjluTk9Xa3FlNmE5TDJHQjRHR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mjk2MTkyCWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApvdHZjZWY0MFpITUFOdXgvODJVUXpPQ2FkOVowQk1wUy9NbmJ3UE5xYmhoc3plc2RTei9jRmNjVGlRclJDSm1qcjMxVFFVZWRMTkpOS241YVB1UUZDZz09Cg==",
+  "sha256": "7c177b1ad57c5ba8838bf40f713a76c80924044259b680a8f8a27cd5a670dea8",
+  "size_bytes": 55744032,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGN4Y3ZqQkZxYnA2a1lFelk2N2ZGOG5iQnFrVVFrNjN2TjJLcEw1Z0U3cDVGNVZkKzNKb2hFZmZUdVBwR3BGMUQwY2VhRTZWZStCek44cEhOb2xXR0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyMzI5CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAorODNIUlpNcmZCZnB0am9yWDhCN0pWUGh2clNoMlRjRTl5dEo0VTNWNlVvT0Q2NUxXWE5aSGh4OFFmWklmYU1HUTlwaVk3ekFQTjlSOGljM09OdkhEQT09Cg==",
   "required": false
 }
