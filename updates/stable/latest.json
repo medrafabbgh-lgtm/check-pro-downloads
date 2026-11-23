@@ -1,14 +1,14 @@
 {
-  "version": "0.3.69",
-  "notes": "Nouveau : Services IMEI dans Contrôle iPhone (vérifications par IMEI, ouverture prochaine). L'assistant répond dans la langue de la question (français ou arabe), trouve mieux vos ventes, dettes, stock et réparations, et répond aussi un jour sans vente. Page QR du client : les réponses du magasin ne sont plus écrites en grandes majuscules bleues. 18 petites améliorations d'affichage dans les pages. Vos données ne changent pas.",
+  "version": "0.3.70",
+  "notes": "Nouveau : Carnet clients repensé, Messages comme sur un iPhone (le client peut écrire depuis sa page QR), Caisse plus claire avec plus de produits et de lignes visibles, vente au scanner sur toutes les pages, Réception des livraisons scannées, rappel des téléphones prêts oubliés (SMS à activer), ligne de garantie sur le reçu, lecture des factures en photo ou PDF vers le stock, Rapports plus simples, nouveaux outils d'aide à distance, remise à zéro de la boutique avec copie de secours. Vos données sont conservées.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGQ4b2xpbGtvRkttRXhhdnNTMVI3SFN0VmtyelJucGEvQWVTM0Z4VzBwTWFZbi8yaFkvQXVPWkZlNXhrZjhSK1VEeml4UVhSTTlOc01iTmpPRnlaaEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyMzI4CWZpbGU6Q2hlY2stUHJvLTAuMy42OS14NjQtc2V0dXAuZXhlCkJrYXVob1ZOclE4aHF5YUdBTnlIaVpZcnJBZmp6WjM0cFBpMUlxRlFOWjdzbDFIRFkyeGlKUno2KzM0QnRLb1ZEb2Y3T2NraDZubkpzN2tYai9IYkFRPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.69/Check-Pro-0.3.69-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFRSZ1BXSmRFYXozNjJBS2ZIcHAvOExwbXd0dkJPekN2ZXRuMjhXdXlKVU5hblVDRFBCT0lqZy9tYTVrNFNDNGNjbU42WFNZeDBIMTdGUC90RnQ4OFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQ5MTg3CWZpbGU6Q2hlY2stUHJvLTAuMy43MC14NjQtc2V0dXAuZXhlClZVSHFUR0owUlpJTlY1VFBXNmIrd1VkZ3F2akFnVG9Qeks1MEp3ODFRVTlLbitVRDRMeHRLcDQ0Y0xKUmV5VjFCaSt5aTVHbHBwOWhNMEViN1pKN0RnPT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.70/Check-Pro-0.3.70-x64-setup.exe"
     }
   },
-  "sha256": "7c177b1ad57c5ba8838bf40f713a76c80924044259b680a8f8a27cd5a670dea8",
-  "size_bytes": 55744032,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGN4Y3ZqQkZxYnA2a1lFelk2N2ZGOG5iQnFrVVFrNjN2TjJLcEw1Z0U3cDVGNVZkKzNKb2hFZmZUdVBwR3BGMUQwY2VhRTZWZStCek44cEhOb2xXR0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyMzI5CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAorODNIUlpNcmZCZnB0am9yWDhCN0pWUGh2clNoMlRjRTl5dEo0VTNWNlVvT0Q2NUxXWE5aSGh4OFFmWklmYU1HUTlwaVk3ekFQTjlSOGljM09OdkhEQT09Cg==",
+  "sha256": "74a24bdef826e5d41411b8d14452af1bb5e55d46397859afea748dc2bc85d7d6",
+  "size_bytes": 55966949,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFlaeEVKNXNhaFBoUzd2aWNrV2hodzhnaUl6cThFc0JyQlZaT3J4OGxaRmt6T0YyUGZpVUxKRmh6UHE4bXdWb2htRVRKYmtEcEV5cVZJcXVwNjFPZGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQ5MTg3CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAo5Z1V3L1I4L2xVV2lST3hsMVFyMEh2S2sxNDhJME9CSFExZ01KS3g2T2tDOXdlYkpPR1dsU2g3bkttcE5SdUpHVGs5VXcwMHUzeXBkQ1NaUldzSWxBZz09Cg==",
   "required": false
 }
