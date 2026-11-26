@@ -1,14 +1,14 @@
 {
-  "version": "0.3.72",
-  "notes": "Nouveau : dette ancienne à ajouter à la main, carnet clients plus simple, nouvelle fiche de réparation (urgent, code écran, WhatsApp, prévenir le client), IMEI des téléphones au stock et à la caisse. Le code-barres de l’étiquette du téléphone se scanne mieux. Vos données sont conservées.",
+  "version": "0.3.73",
+  "notes": "Les SMS ne s’arrêtent plus : un SMS en échec ou un téléphone retiré ne bloque plus l’envoi des autres SMS ni les appels. Les SMS partent un par un, toutes les 30 secondes. Vos données sont conservées.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFcweXk2MjRudExVTzQ2THd2Q3pEQnJENVlEenJHVW9YLy8vbVRHQlZrUmNXL0ZqNEdpWi90TXFDQUpzTjRISzF1c3ZMb0plNzZjQ1pXZGUzL3lIbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAwOTU1CWZpbGU6Q2hlY2stUHJvLTAuMy43Mi14NjQtc2V0dXAuZXhlCjJXVkFqaitZdDdySTRheEZmUWlmQ2NsY3FIcVpvZjhTaXBnM01KVlFISEtuVU5hbFBJSXZ0N1NPYTM3VlRSam9sL0N4RHNWL1dsdUl5LzZmbVJGK0J3PT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.72/Check-Pro-0.3.72-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFpJTnIyVlpkUTJQMVVWN1pBclpKbUV5QytSbjRqQWdndEFQQ0tZbSthRnJKQXZkRlZFcjdjWEF6aEhyNGluRHh4YTc4VnNNeXp0d0NvNFA2MW9IUXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIyMDY3CWZpbGU6Q2hlY2stUHJvLTAuMy43My14NjQtc2V0dXAuZXhlCm85bDNvTGdnVlNvOEVlbzNYcEhKdkRDK3lZTHV3RStkSU9OanBGZmgyYW4zM2h1dWx5eXJXNDNEcXZ2cFdUc2UxUDJHQkdpOHp5NnZsZzJheFh2a0R3PT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.73/Check-Pro-0.3.73-x64-setup.exe"
     }
   },
-  "sha256": "830274be851810960f35a52ab252bca424efb2ef5a7acadae1a94c777317f127",
-  "size_bytes": 57081679,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGZFMnVIVGFxS1N0ZlNUMlJBT3djMVNwajZaaG1LUTFOZjFrZDgzcHIySWtKSkVwMXltd3IrNm9VM1YyTWpmQy9nNmZwZHFrWlNGQUMyU1cxRjU5NHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAwOTU1CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApBUGJ2YmpTS1FVKzk4eC9RU1RpZ2NoTHJBcHRSTDMrcWN5bXMwekk3MHNUUDMxcUYwRzlkOEl4T1FubGF6MC9FbjZMM0xwL0ZGTVYycGFoRzN5a01Edz09Cg==",
+  "sha256": "35e11310ebb43887995a12bcb714f0af333b2f204f4baa756ead9afe9361ac15",
+  "size_bytes": 57083986,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFk3SGRINWdtWEVHc0hvUnBKVmlKQ2JWbWwrZi9xTDRiU2EvcFgzMVFvNTQzT0Y1dCtONDQwejlLV1QzTm1zWjMvcWZ1by9DYjRhRTlnU3FVRzQrVGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzIyMDY4CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApoZERNalRsaHI0Q2doVnNDZDlsM2QvWTlCMG5ZeWlWWGt1VTFINk9PdmZQRENta0JNRHJLNjNEcEhJZVhDSTRROXkyMnZyV0VQdXlrT1UyRWI3ei9Edz09Cg==",
   "required": false
 }
