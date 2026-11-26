@@ -1,14 +1,14 @@
 {
-  "version": "0.3.71",
-  "notes": "Nouveau : sur la page Contrôle iPhone, une courte animation montre au client tout ce que Check Pro sait et répare sur un iPhone, en attendant qu'il soit branché. Vos données sont conservées.",
+  "version": "0.3.72",
+  "notes": "Nouveau : dette ancienne à ajouter à la main, carnet clients plus simple, nouvelle fiche de réparation (urgent, code écran, WhatsApp, prévenir le client), IMEI des téléphones au stock et à la caisse. Le code-barres de l’étiquette du téléphone se scanne mieux. Vos données sont conservées.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGY0T0EvNkpibDVtUW15djRkS3NVM3UvUkFPeU5sYjd3SnBjemxaZVh4SHZUcm1rdSt0VnpOV1lxanM3VTJyZ1h1Ry9DalhMelJVTWMxZGZmRG1VMEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTIxOTI5CWZpbGU6Q2hlY2stUHJvLTAuMy43MS14NjQtc2V0dXAuZXhlClBzUWFSc3d1YlZ6QUJSbTZoY3EwbFdHSHQwL2VZSFR1VndKb3phck41K053UkVtNEZNaHYrdms0TUd4bm5iaGNtSWoyT1FFM2JRVGg2QUh1RitPb0NBPT0K",
-      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.71/Check-Pro-0.3.71-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFcweXk2MjRudExVTzQ2THd2Q3pEQnJENVlEenJHVW9YLy8vbVRHQlZrUmNXL0ZqNEdpWi90TXFDQUpzTjRISzF1c3ZMb0plNzZjQ1pXZGUzL3lIbEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAwOTU1CWZpbGU6Q2hlY2stUHJvLTAuMy43Mi14NjQtc2V0dXAuZXhlCjJXVkFqaitZdDdySTRheEZmUWlmQ2NsY3FIcVpvZjhTaXBnM01KVlFISEtuVU5hbFBJSXZ0N1NPYTM3VlRSam9sL0N4RHNWL1dsdUl5LzZmbVJGK0J3PT0K",
+      "url": "https://github.com/medrafabbgh-lgtm/check-pro-downloads/releases/download/original-v0.3.72/Check-Pro-0.3.72-x64-setup.exe"
     }
   },
-  "sha256": "d8f71cb206cdc7ac38c4edd0129eba8afd1755046c6c1ce5c736730efa8b2e32",
-  "size_bytes": 57066404,
-  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaFJvZDBFcmJKSXh5cHAwUUNFckw4U2xPalA0c2svMmZpbEMremNaUVBsRGpENjR5eURkcC9YREFQQ2QvK0FSU1BtYWdhd1N3ZzljcU9YZmdjZ0JvMFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTIxOTI5CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dAprZzZpTzZCSk9NdWpYSERzQzMwS2paeC9VWEFYVmNicFgvOEdITCthWTJGemFCanpQeW9ZTHVWb0JETUQvQTVKaXc1bjc4bE82MTVIOEdwUzNLc0VEZz09Cg==",
+  "sha256": "830274be851810960f35a52ab252bca424efb2ef5a7acadae1a94c777317f127",
+  "size_bytes": 57081679,
+  "metadata_signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTXdpcFFFL0VpaGZFMnVIVGFxS1N0ZlNUMlJBT3djMVNwajZaaG1LUTFOZjFrZDgzcHIySWtKSkVwMXltd3IrNm9VM1YyTWpmQy9nNmZwZHFrWlNGQUMyU1cxRjU5NHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzAwOTU1CWZpbGU6ZGVza3RvcC1yZWxlYXNlLWVudmVsb3BlLnR4dApBUGJ2YmpTS1FVKzk4eC9RU1RpZ2NoTHJBcHRSTDMrcWN5bXMwekk3MHNUUDMxcUYwRzlkOEl4T1FubGF6MC9FbjZMM0xwL0ZGTVYycGFoRzN5a01Edz09Cg==",
   "required": false
 }
